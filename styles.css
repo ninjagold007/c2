@@ -1,0 +1,70 @@
+hr {
+  size: 100px;
+  background-color: #007bff;
+
+}
+
+body {
+  background-color: #F2F2F2 !important;
+  /*#F2F2F2 = light gray*/
+}
+
+footer {
+  margin-bottom: 25px;
+}
+.footer-content{
+    margin: auto;
+    text-align: center;
+}
+#userInput {
+  width: 300px;
+  margin-bottom: 10px;
+
+}
+#userSubmit{
+margin-bottom: 10px;
+}
+
+input {
+  text-align: center;
+}
+
+#userSubmit {
+  width: 200px;
+}
+
+
+form {
+  margin-top: 10px;
+text-align: center;
+}
+
+#userResults {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p {
+  font-size: 18px;
+}
+
+
+#logo {
+width: 270px;
+height: 100px;
+background-color: transparent;
+}
+
+.form-inline {
+  text-align: right;
+}
+
+.navbar {
+  background-color: #d4af37;
+}
+
+#title {
+  text-align: center;
+  font-size: calc( 20px + (24 - 16) * (100vw - 400px) / (800 - 400));
+}
